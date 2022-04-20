@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/RUCSANJA/AndroidStudioProjects/FoodieApp/app/src/main/res/layout/activity_language.xml" value="0.165625" />
+        <entry key="..\:/Users/RUCSANJA/AndroidStudioProjects/FoodieApp/app/src/main/res/layout/activity_location.xml" value="0.1796875" />
+        <entry key="..\:/Users/RUCSANJA/AndroidStudioProjects/FoodieApp/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/RUCSANJA/AndroidStudioProjects/FoodieApp/app/src/main/res/layout/login.xml" value="0.1796875" />
         <entry key="..\:/Users/bgunavar/AndroidStudioProjects/FoodieApp/app/src/main/res/drawable/border.xml" value="0.1495" />
         <entry key="..\:/Users/bgunavar/AndroidStudioProjects/FoodieApp/app/src/main/res/drawable/circular_border.xml" value="0.1495" />
         <entry key="..\:/Users/bgunavar/AndroidStudioProjects/FoodieApp/app/src/main/res/layout/login.xml" value="0.13632246376811594" />
